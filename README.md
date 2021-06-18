@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prads46
-- 👀 I’m interested in internships, open source contributions and learning new technologies
-- 🌱 I’m currently learning javascript,mysql dataabse
-- 💞️ I’m looking to collaborate on projects
+- 👀 I’m interested in internships, open source contributions and learning new technologies.
+- 🌱 I’m currently learning javascript,mysql databse.
+- 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me contact me on my email-id : pradeep438ljy@gmail.com
 
 <!---
